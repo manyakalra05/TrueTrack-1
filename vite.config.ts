@@ -20,3 +20,5 @@ export default defineConfig(({ mode }) => ({
     },
   },
 }));
+
+<!-- Update 2024-11-25T13:35:17+05:30 -->
